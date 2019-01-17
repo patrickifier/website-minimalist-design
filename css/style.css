@@ -1,0 +1,43 @@
+body{
+  margin: 0 auto;
+  background: #FFCC5C;
+  font-family: 'Slabo 13px', serif;
+}
+
+div{
+  text-align: center;
+}
+
+.mainHeading{
+  margin-top: 60px;
+  margin-bottom: 20px;
+  font-family: 'Russo One', sans-serif;
+  font-size: 4.4rem;
+
+}
+
+
+.list{
+  display: block;
+}
+
+.listItem{
+  display: inline;
+  padding: 0 70px 0 70px;
+  font-family: 'Slabo 13px', serif;
+}
+
+a{
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
+
+img{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 1366px;
+  height: 370px;
+  z-index: -1;
+}
